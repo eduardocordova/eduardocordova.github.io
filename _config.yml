@@ -31,7 +31,7 @@ skills:
  #optional
 stackoverflow:
    profileurl:
-   flairimageurl: ./img/pic.jpg
+   flairimageurl: ./img/img.jpg
    
 #Work experience is required
 roles:
