@@ -9,8 +9,8 @@ markdown: kramdown
 #User specific content
 #Links that will appear in the navbar
 primarylinks:
-# - title: Blog
-#   url: https://automateddeveloper.blogspot.com/
+ - title: CV
+   url: "https://raw.githubusercontent.com/eduardocordova/eduardocordova.github.io/master/cv/EACM%20CV%202021%20EN.pdf"
  - title: GitHub
    url: https://github.com/eduardocordova
 # - title: StackOverflow
