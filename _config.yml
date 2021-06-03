@@ -74,6 +74,10 @@ education:
    subject: Computer Science and Engineering
    school: Politecnico di Milano
 
+stackoverflow:
+   profileurl:
+   flairimageurl: ./img/pic.jpg
+   
 intro: |
   I’m a person closely related to new technologies and deep learning with an interest in NLP.<br/><br/>
   I've recently worked in RPA and CRM projects.<br/><br/>
