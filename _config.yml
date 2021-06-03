@@ -28,7 +28,11 @@ skills:
  - Mobile
  - RPA
  - Design
-
+ #optional
+stackoverflow:
+   profileurl:
+   flairimageurl: ./img/pic.jpg
+   
 #Work experience is required
 roles:
  - title: Analyst Programmer
@@ -73,10 +77,6 @@ education:
    date: 2018
    subject: Computer Science and Engineering
    school: Politecnico di Milano
-
-stackoverflow:
-   profileurl:
-   flairimageurl: ./img/pic.jpg
    
 intro: |
   I’m a person closely related to new technologies and deep learning with an interest in NLP.<br/><br/>
