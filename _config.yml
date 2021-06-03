@@ -64,17 +64,17 @@ roles:
    start: 2010
    end: 2010
    employer: Canal Uno
-   description:Motion Graphics, 3D animations , TV Shows Promos.
+   description: Motion Graphics, 3D animations , TV Shows Promos.
  - title: Casting Director / Editor
    start: 2009
    end: 2010
    employer: Canal Uno
-   description:Responsible for the technical area, castings, edit and post-production of TV spots.
+   description: Responsible for the technical area, castings, edit and post-production of TV spots.
  - title: Editor
    start: 2008
    end: 2009
    employer: Xtreme Film Production
-   description:Responsible for video edition and post production of TV program "Casa y Diseño", International Ecuavisa.
+   description: Responsible for video edition and post production of TV program "Casa y Diseño", International Ecuavisa.
 
 #Education is required
 education:
