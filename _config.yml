@@ -10,7 +10,7 @@ markdown: kramdown
 #Links that will appear in the navbar
 primarylinks:
  - title: CV
-   url: "https://raw.githubusercontent.com/eduardocordova/eduardocordova.github.io/master/cv/EACM%20CV%202021%20EN.pdf"
+   url: https://raw.githubusercontent.com/eduardocordova/eduardocordova.github.io/master/cv/EACM_CV_2021_EN.pdf
  - title: GitHub
    url: https://github.com/eduardocordova
 # - title: StackOverflow
