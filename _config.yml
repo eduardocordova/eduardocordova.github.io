@@ -1,7 +1,7 @@
 # Site settings
 title: Eduardo Cordova
 twitter_username: eduardoawakens
-name: Eduardo Alfredo Cordova Mancheno
+name: Eduardo Cordova
 
 # Build settings
 markdown: kramdown
@@ -40,7 +40,7 @@ skills:
 
 #Work experience is required
 roles:
- - title: Programmer
+ - title: Analyst Programmer
    start: 2019
    end: 2021
    employer: Maint S.A.
@@ -60,11 +60,11 @@ roles:
    end: 2013
    employer: Guayaquil Construction Chamber
    description: Responsible for digital identity, audiovisual assignments, webmaster, social networks management and organization of events.
- - title: Post-Producer
-   start: 2010
-   end: 2010
-   employer: Canal Uno
-   description: Motion Graphics, 3D animations , TV Shows Promos.
+# - title: Post-Producer
+#   start: 2010
+#   end: 2010
+#   employer: Canal Uno
+#   description: Motion Graphics, 3D animations , TV Shows Promos.
  - title: Casting Director / Editor
    start: 2009
    end: 2010
